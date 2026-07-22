@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.bgColor{
+    background-color: #f9a6a6;
+    font-family: "DejaVu Sans", verdana, sans-serif;
+}
+
+.bgSize{
+    font-size: 26px;
+    
+}
+
+#two{
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#four{
+    font-weight: bold;
+    background-color: hsl(120, 66%, 56%);
+
+}
