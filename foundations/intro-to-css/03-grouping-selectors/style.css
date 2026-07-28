@@ -1,15 +1,17 @@
 /* Add CSS Styling */
-.first{
+.normal, .fancy{
+    background-color: white;
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif ;
+}
+
+.normal{
     background-color: black;
     color: white;
 }
 
-.second{
+.fancy{
     background-color: yellow;
     color: red;
 }
 
-.both{
-    font-size: 28px;
-    font-family: Helvetica, "Times New Roman", sans-serif ;
-}
